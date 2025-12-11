@@ -1,0 +1,112 @@
+[
+    {
+        "domain": "www.tojeto.info",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "wordpress_logged_in_90934c24db0928f5dd52a63b630aab07",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "ccwork156%7C1762537375%7CE9eVEncIB86FwWem3fPQR6DuKB1OpidyMTM2YU3aIrl%7C4335212cfabad9c8e5c79ce1b8cc301c8ea24f517fd5ca8990869e34f251ca73"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_udata",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F142.0.0.0%20Safari%2F537.36"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_current",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29"
+    },
+    {
+        "domain": ".tojeto.info",
+        "expirationDate": 1770140577,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fb.1.1762364557029.492859410999221161"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_current_add",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "fd%3D2025-11-05%2017%3A12%3A37%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.tojeto.info%2Fmoj-racun%2F%7C%7C%7Crf%3D%28none%29"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_first",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Cplt%3D%28none%29%7C%7C%7Cfmt%3D%28none%29%7C%7C%7Ctct%3D%28none%29"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_first_add",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "fd%3D2025-11-05%2017%3A12%3A37%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.tojeto.info%2Fmoj-racun%2F%7C%7C%7Crf%3D%28none%29"
+    },
+    {
+        "domain": ".tojeto.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_migrations",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1418474375998%3D1"
+    },
+    {
+        "domain": ".tojeto.info",
+        "expirationDate": 1762366377,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sbjs_session",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "pgs%3D2%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.tojeto.info%2Fmoj-racun%2F"
+    }
+]
